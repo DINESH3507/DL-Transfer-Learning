@@ -10,7 +10,8 @@ VGG19 is a convolutional neural network with 19 layers. It consists of multiple 
 
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d43e5227-d911-4186-b071-3b68b96e5d3f" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
